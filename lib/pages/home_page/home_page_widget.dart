@@ -78,7 +78,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       Text(
-                        'ERIC LINDO',
+                        'HOME',
                         style: FlutterFlowTheme.of(context).headlineMedium.override(
                               fontFamily: 'Inter Tight',
                               color: Colors.white,
